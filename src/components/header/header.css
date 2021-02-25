@@ -1,0 +1,35 @@
+.header {
+    position: sticky;
+    display: flex;
+    top: 0;
+    background-color: rgb(235, 151, 55);
+    height: 50px;
+    flex-direction: row;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: auto;
+    padding: 10px;
+}
+
+.shortcuts {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.button {
+    margin: 5px;
+    position: relative;
+    font-size: 11px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+

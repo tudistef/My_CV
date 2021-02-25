@@ -1,0 +1,19 @@
+.App-form {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.label-form {
+    padding: 5px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 12px;
+}
+
+.btn-primary {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+}
