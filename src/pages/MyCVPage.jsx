@@ -32,6 +32,7 @@ class MyCV extends React.Component {
             </li>
           </ul>
         </p>
+        <hr></hr>
         <h3>Experienta profesionala</h3>
         <h4 id="company-name" className="jobTitle">
           E-ON Business Center - Master Data Team
@@ -49,6 +50,7 @@ class MyCV extends React.Component {
             <li>Contributia constanta in echipa pentru evolutie</li>
           </ul>
         </p>
+        <hr></hr>
         <h3>Educatie</h3>
         <table>
           <tr id="heading">
@@ -68,6 +70,7 @@ class MyCV extends React.Component {
             <td>N/A</td>
           </tr>
         </table>
+        <hr></hr>
         <h3>Cursuri </h3>
         <p>
           <ul>
@@ -75,6 +78,7 @@ class MyCV extends React.Component {
               <span id="course-name">JavaScript - Scoala Informala de IT</span>{" "}
             </li>
           </ul>
+          <hr></hr>
           <h3>Technical Skills</h3>
           <p>
             <ul>
@@ -93,7 +97,7 @@ class MyCV extends React.Component {
               </li>
             </ul>
           </p>
-
+          <hr></hr>
           <h3>Informatii personale:</h3>
           <p>
             <ul>
