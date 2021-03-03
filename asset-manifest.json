@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.32bc5d0a.chunk.css",
-    "main.js": "/my-app/static/js/main.ed5ea606.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ed5ea606.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.d77190df.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.d77190df.js.map",
-    "static/js/2.49049a7e.chunk.js": "/my-app/static/js/2.49049a7e.chunk.js",
-    "static/js/2.49049a7e.chunk.js.map": "/my-app/static/js/2.49049a7e.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.32bc5d0a.chunk.css.map": "/my-app/static/css/main.32bc5d0a.chunk.css.map",
-    "static/js/2.49049a7e.chunk.js.LICENSE.txt": "/my-app/static/js/2.49049a7e.chunk.js.LICENSE.txt",
-    "static/media/Iloaie_Stefan.48ba9560.jpg": "/my-app/static/media/Iloaie_Stefan.48ba9560.jpg",
-    "static/media/logo-dslr.8a2eb874.svg": "/my-app/static/media/logo-dslr.8a2eb874.svg"
+    "main.css": "/My_CV/static/css/main.a0a0f7a4.chunk.css",
+    "main.js": "/My_CV/static/js/main.021c134c.chunk.js",
+    "main.js.map": "/My_CV/static/js/main.021c134c.chunk.js.map",
+    "runtime-main.js": "/My_CV/static/js/runtime-main.c426fc79.js",
+    "runtime-main.js.map": "/My_CV/static/js/runtime-main.c426fc79.js.map",
+    "static/js/2.49049a7e.chunk.js": "/My_CV/static/js/2.49049a7e.chunk.js",
+    "static/js/2.49049a7e.chunk.js.map": "/My_CV/static/js/2.49049a7e.chunk.js.map",
+    "index.html": "/My_CV/index.html",
+    "static/css/main.a0a0f7a4.chunk.css.map": "/My_CV/static/css/main.a0a0f7a4.chunk.css.map",
+    "static/js/2.49049a7e.chunk.js.LICENSE.txt": "/My_CV/static/js/2.49049a7e.chunk.js.LICENSE.txt",
+    "static/media/Iloaie_Stefan.48ba9560.jpg": "/My_CV/static/media/Iloaie_Stefan.48ba9560.jpg",
+    "static/media/css.c606ab14.jpg": "/My_CV/static/media/css.c606ab14.jpg",
+    "static/media/html.ff3cf75e.png": "/My_CV/static/media/html.ff3cf75e.png",
+    "static/media/js.c863dc1f.png": "/My_CV/static/media/js.c863dc1f.png",
+    "static/media/logo-dslr.8a2eb874.svg": "/My_CV/static/media/logo-dslr.8a2eb874.svg",
+    "static/media/react.73ac128a.png": "/My_CV/static/media/react.73ac128a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d77190df.js",
+    "static/js/runtime-main.c426fc79.js",
     "static/js/2.49049a7e.chunk.js",
-    "static/css/main.32bc5d0a.chunk.css",
-    "static/js/main.ed5ea606.chunk.js"
+    "static/css/main.a0a0f7a4.chunk.css",
+    "static/js/main.021c134c.chunk.js"
   ]
 }
