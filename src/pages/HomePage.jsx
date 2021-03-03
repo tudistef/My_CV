@@ -18,6 +18,9 @@ class Home extends React.Component {
     return (
       <div>
         <h3>Iloaie Stefan Tudor</h3>
+        <p>Sunt o persoana dedicata si eficienta. 
+          Aceste atribute sunt dovedite de cursurile urmate pana in acest 
+          moment si constanta dorinta de a evolua mai departe</p>
         <img className="picture" src={selfpicture} />
         <p className="icons">
           <img className="css" src={css} />

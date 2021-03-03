@@ -1,0 +1,9 @@
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    background-color: rgb(235, 151, 55);
+    flex-shrink: 0;
+}

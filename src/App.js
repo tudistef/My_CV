@@ -1,16 +1,17 @@
 import React from 'react';
-import { BrowserRouter as Router , Switch, Route} from 'react-router-dom'
+import { HashRouter, Switch, Route} from 'react-router-dom'
 import "./App.css";
 import ContactPage from "./pages/ContactPage";
 import {HomePage} from "./pages/HomePage";
 import {HeaderWithRouter} from "./components/header/header";
 import {PortfolioPage} from './pages/PortfolioPage';
 import {MyCVPage} from './pages/MyCVPage'
+import { FooterWithRouter } from './components/footer/footer';
 
 export class App extends React.Component {
   render() {
     return (
-      <Router>
+      <HashRouter>
         <HeaderWithRouter />
         <Switch>
           <Route exact path="/contact">
@@ -26,7 +27,8 @@ export class App extends React.Component {
             <MyCVPage />
           </Route>
         </Switch>
-      </Router>
+        <FooterWithRouter />
+      </HashRouter>
     );
   }
 }
