@@ -10,12 +10,13 @@
 .logo {
     display: flex;
     flex-direction: row;
-    width: 20px;
+    width: 30px;
     height: auto;
     padding: 10px;
 }
 
 .shortcuts {
+    
     display: flex;
     flex-direction: row;
     padding: 10px;
@@ -24,7 +25,8 @@
 .button {
     margin: 5px;
     position: relative;
-    font-size: 11px;
+    font-size: 14px;
+    text-decoration: none;
 }
 
 h1 {

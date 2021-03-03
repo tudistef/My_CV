@@ -6,3 +6,16 @@ h3 {
 .jobTitle {
     padding: 10px;
 }
+p {
+    
+    padding: 10px;
+}
+
+.educatieTable {
+    padding: 20px;
+}
+
+td {
+    padding-right: 20px;
+    padding-left: 20px;
+}

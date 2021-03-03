@@ -52,7 +52,7 @@ class MyCV extends React.Component {
         </p>
         <hr></hr>
         <h3>Educatie</h3>
-        <table>
+        <table className="educatieTab">
           <tr id="heading">
             <td>Scoala absolvita</td>
             <td>Anul</td>
@@ -119,5 +119,6 @@ class MyCV extends React.Component {
     );
   }
 }
+
 
 export const MyCVPage = withRouter(MyCV);
