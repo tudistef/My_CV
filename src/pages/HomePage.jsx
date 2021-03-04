@@ -18,11 +18,13 @@ class Home extends React.Component {
     return (
       <div className="homeView">
         <div className="row1">
-          <h3>Iloaie Stefan Tudor</h3>
+          <h3>Hi, I'm</h3>
+          <h2>Iloaie Stefan Tudor</h2>
+          <h3>- Front-end Developer -</h3>
           <p>
-            Sunt o persoana dedicata si eficienta. Aceste atribute sunt dovedite
-            de cursurile urmate pana in acest moment si constanta dorinta de a
-            evolua mai departe
+            I am a dedicated an eficient person that can be proved trough the 
+            courses that I have finished until know and the wast knowledge got 
+            in my last jobs.
           </p>
         </div>
         <div className="row2">

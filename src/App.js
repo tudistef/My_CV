@@ -6,7 +6,7 @@ import {HeaderWithRouter} from "./components/header/header";
 import {PortfolioPage} from './pages/PortfolioPage';
 import {MyCVPage} from './pages/MyCVPage';
 import { FooterWithRouter } from './components/footer/footer';
-import {ContactPage} from "./pages/ContactPage";
+import ContactPage from "./pages/ContactPage";
 
 export class App extends React.Component {
   render() {
