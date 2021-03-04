@@ -1,9 +1,14 @@
-nav {
-    display: flex;
-    flex-direction: column;
-}
 
 .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: rgb(235, 151, 55);
     flex-shrink: 0;
 }
+
+.shortcuts {
+    display: flex;
+    justify-content: flex-end;
+}
+

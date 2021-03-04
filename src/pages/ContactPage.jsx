@@ -1,7 +1,8 @@
 import React from 'react';
-import './ContactPage.css'
+import './ContactPage.css';
+import { withRouter } from "react-router-dom";
 
-class ContactPage extends React.Component {
+class Contact extends React.Component {
     constructor(props) {
       super(props);
       this.state = {
@@ -68,4 +69,4 @@ class ContactPage extends React.Component {
       }
   }
   
-  export default ContactPage;
+  export const ContactPage = withRouter(Contact);

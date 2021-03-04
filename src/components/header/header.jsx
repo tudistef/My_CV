@@ -22,9 +22,6 @@ export class Header extends React.Component {
           <NavLink activeClassName="active" to="/portfolio" className="button">
             Portfolio
           </NavLink>
-          <NavLink activeClassName="active" to="/contact" className="button">
-            Contact
-          </NavLink>
         </div>
       </nav>
     );
