@@ -11,7 +11,7 @@ import ContactPage from "./pages/ContactPage/ContactPage";
 export class App extends React.Component {
   render() {
     return (
-      <HashRouter>
+      <HashRouter className="applicationCss">
         <HeaderWithRouter />
         <Switch>
           <Route exact path="/">

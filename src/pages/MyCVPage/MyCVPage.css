@@ -1,6 +1,25 @@
 .right {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     margin: 80px;
 }
+
+.paragraph1 {
+    width: 300px;
+}
+
+.job-responsibilities {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.jobTitle {
+    display: flex;
+    justify-content: center;
+}
+
 
 h3 {
     display: flex;
