@@ -1,11 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import {
-  Route,
-  BrowserRouter as Router,
-  Switch,
-  withRouter,
-} from "react-router-dom";
+import { withRouter } from "react-router-dom";
 import "../MyCVPage/MyCVPage.css";
 
 class MyCV extends React.Component {

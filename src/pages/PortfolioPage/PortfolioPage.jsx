@@ -1,11 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import {
-  Route,
-  BrowserRouter as Router,
-  Switch,
-  withRouter,
-} from "react-router-dom";
+import { withRouter } from "react-router-dom";
 import "../PortfolioPage/PortfolioPage.css";
 import Button from "@material-ui/core/Button";
 import GitHub from "../../assets/iconmonstr-github-1.svg";
@@ -17,7 +11,7 @@ class Portfolio extends React.Component {
     return (
       <div className="Projects">
         <div className="Project1">
-          <img className="picture" src={RockPaperScrissors} />
+          <img className="picturePortfolio" src={RockPaperScrissors} />
           <div className="button">
             <Button
               size="small"
@@ -30,7 +24,7 @@ class Portfolio extends React.Component {
           </div>
         </div>
         <div className="Project2">
-          <img className="picture" src={BooksPicture} />
+          <img className="picturePortfolio" src={BooksPicture} />
           <div className="button">
             <Button
               size="small"

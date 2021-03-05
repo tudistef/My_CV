@@ -1,7 +1,6 @@
 import emailjs from 'emailjs-com';
 import React from 'react';
 import '../ContactPage/ContactPage.css';
-import { withRouter } from "react-router-dom";
 import{ init } from 'emailjs-com';
 init("user_tQoWWeWR0n6d9HsA1Yuuc");
 

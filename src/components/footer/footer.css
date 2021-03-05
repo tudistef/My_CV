@@ -3,12 +3,12 @@
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: rgb(235, 151, 55);
+    background-color: rgb(30, 121, 144);
     flex-shrink: 0;
 }
 
 .shortcuts {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 

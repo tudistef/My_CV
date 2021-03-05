@@ -1,11 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import {
-  Route,
-  BrowserRouter as Router,
-  Switch,
-  withRouter,
-} from "react-router-dom";
+import {withRouter } from "react-router-dom";
 import selfpicture from "../../Iloaie_Stefan.jpg";
 import "../HomePage/HomePage.css";
 import css from "../../components/Icons/css.jpg";
