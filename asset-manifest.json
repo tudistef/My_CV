@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/My_CV/static/css/main.9f424d18.chunk.css",
-    "main.js": "/My_CV/static/js/main.14fb6456.chunk.js",
-    "main.js.map": "/My_CV/static/js/main.14fb6456.chunk.js.map",
+    "main.css": "/My_CV/static/css/main.fbd4e32d.chunk.css",
+    "main.js": "/My_CV/static/js/main.d28de70e.chunk.js",
+    "main.js.map": "/My_CV/static/js/main.d28de70e.chunk.js.map",
     "runtime-main.js": "/My_CV/static/js/runtime-main.c426fc79.js",
     "runtime-main.js.map": "/My_CV/static/js/runtime-main.c426fc79.js.map",
     "static/js/2.1938e36c.chunk.js": "/My_CV/static/js/2.1938e36c.chunk.js",
     "static/js/2.1938e36c.chunk.js.map": "/My_CV/static/js/2.1938e36c.chunk.js.map",
     "index.html": "/My_CV/index.html",
-    "static/css/main.9f424d18.chunk.css.map": "/My_CV/static/css/main.9f424d18.chunk.css.map",
+    "static/css/main.fbd4e32d.chunk.css.map": "/My_CV/static/css/main.fbd4e32d.chunk.css.map",
     "static/js/2.1938e36c.chunk.js.LICENSE.txt": "/My_CV/static/js/2.1938e36c.chunk.js.LICENSE.txt",
     "static/media/Iloaie_Stefan.48ba9560.jpg": "/My_CV/static/media/Iloaie_Stefan.48ba9560.jpg",
     "static/media/css.c606ab14.jpg": "/My_CV/static/media/css.c606ab14.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.c426fc79.js",
     "static/js/2.1938e36c.chunk.js",
-    "static/css/main.9f424d18.chunk.css",
-    "static/js/main.14fb6456.chunk.js"
+    "static/css/main.fbd4e32d.chunk.css",
+    "static/js/main.d28de70e.chunk.js"
   ]
 }
