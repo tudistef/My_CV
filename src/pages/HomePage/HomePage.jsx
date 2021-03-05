@@ -6,12 +6,12 @@ import {
   Switch,
   withRouter,
 } from "react-router-dom";
-import selfpicture from "../Iloaie_Stefan.jpg";
-import "./HomePage.css";
-import css from "../components/Icons/css.jpg";
-import html from "../components/Icons/html.png";
-import js from "../components/Icons/js.png";
-import react from "../components/Icons/react.png";
+import selfpicture from "../../Iloaie_Stefan.jpg";
+import "../HomePage/HomePage.css";
+import css from "../../components/Icons/css.jpg";
+import html from "../../components/Icons/html.png";
+import js from "../../components/Icons/js.png";
+import react from "../../components/Icons/react.png";
 
 class Home extends React.Component {
   render() {

@@ -6,7 +6,7 @@ import {
   Switch,
   withRouter,
 } from "react-router-dom";
-import "./MyCVPage.css";
+import "../MyCVPage/MyCVPage.css";
 
 class MyCV extends React.Component {
   render() {

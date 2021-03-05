@@ -6,11 +6,11 @@ import {
   Switch,
   withRouter,
 } from "react-router-dom";
-import "./PortfolioPage.css";
+import "../PortfolioPage/PortfolioPage.css";
 import Button from "@material-ui/core/Button";
-import GitHub from "../assets/iconmonstr-github-1.svg";
-import RockPaperScrissors from "../rockPaperScissor.jpg";
-import BooksPicture from "../books.jpg";
+import GitHub from "../../assets/iconmonstr-github-1.svg";
+import RockPaperScrissors from "../../rockPaperScissor.jpg";
+import BooksPicture from "../../books.jpg";
 
 class Portfolio extends React.Component {
   render() {

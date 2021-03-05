@@ -1,12 +1,12 @@
 import React from 'react';
 import { HashRouter, Switch, Route} from 'react-router-dom'
 import "./App.css";
-import {HomePage} from "./pages/HomePage";
+import {HomePage} from "./pages/HomePage/HomePage";
 import {HeaderWithRouter} from "./components/header/header";
-import {PortfolioPage} from './pages/PortfolioPage';
-import {MyCVPage} from './pages/MyCVPage';
+import {PortfolioPage} from './pages/PortfolioPage/PortfolioPage';
+import {MyCVPage} from './pages/MyCVPage/MyCVPage';
 import { FooterWithRouter } from './components/footer/footer';
-import ContactPage from "./pages/ContactPage";
+import ContactPage from "./pages/ContactPage/ContactPage";
 
 export class App extends React.Component {
   render() {
