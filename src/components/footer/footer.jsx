@@ -11,7 +11,7 @@ export class Footer extends React.Component {
   render() {
     return (
       <nav className="footer">
-        <div className="shortcuts">
+        <div className="shortcutsFooter">
         <Button
            onClick={() =>
             this.props.history.push('/contact')
