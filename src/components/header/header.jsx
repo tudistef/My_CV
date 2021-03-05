@@ -8,6 +8,7 @@ export class Header extends React.Component {
   render() {
     return (
       <nav className="header">
+        <div className="head">
         <div>
           <NavLink className="logo" activeClassName="active" to="/">
             <Logo />
@@ -20,6 +21,7 @@ export class Header extends React.Component {
           <NavLink activeClassName="active" to="/portfolio" className="button">
             Portfolio
           </NavLink>
+        </div>
         </div>
       </nav>
     );

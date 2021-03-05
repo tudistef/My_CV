@@ -1,7 +1,7 @@
 .Projects {
     display: flex;
     flex-wrap: wrap;
-    margin: 40px;
+    margin-top: 80px;
 }
 
 .Project1 {

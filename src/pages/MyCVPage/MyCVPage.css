@@ -1,3 +1,7 @@
+.right {
+    margin: 80px;
+}
+
 h3 {
     display: flex;
     justify-content: center;

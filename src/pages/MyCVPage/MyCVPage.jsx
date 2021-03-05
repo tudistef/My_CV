@@ -5,7 +5,7 @@ import "../MyCVPage/MyCVPage.css";
 class MyCV extends React.Component {
   render() {
     return (
-      <div class="right">
+      <div className="right">
         <h3>My CV </h3>
         <p>
           <ul>
