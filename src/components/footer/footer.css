@@ -5,10 +5,12 @@
     width: 100%;
     background-color: rgb(30, 121, 144);
     flex-shrink: 0;
+    height: 55px;
 }
 
 .shortcutsFooter {
     display: flex;
     justify-content: center;
+    padding: 10px;
 }
 
