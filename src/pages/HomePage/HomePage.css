@@ -1,9 +1,11 @@
 .homeView {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
-  margin: 30px;
-  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+  padding-top: 20px;
+  
 }
 
 .row1 {
@@ -15,7 +17,7 @@
 }
 
 .picture {
-  width: 120%;
+  width: 100%;
   height: auto;
   border-radius: 8px;
   display: block;
@@ -29,8 +31,8 @@
   flex-direction: column;
   justify-content: center;
   width: 400px;
-  padding: 30px;
-  padding-right: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .icons {
